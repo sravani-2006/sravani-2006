@@ -10,6 +10,7 @@
 
 - ## 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srx_vani)
+- [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sravani-m-2414a6339)
 - 
 
 # 💻 Tech Stack:
