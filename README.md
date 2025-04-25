@@ -1,4 +1,5 @@
-<div align="center"><img src="https://github.com/Nithesh8678/nillion-1/blob/main/github.png"/></div>
+<div align="center"><img src="![WhatsApp Image 2025-04-25 at 21 03 38_aa2bd4fd](https://github.com/user-attachments/assets/8bcc91d5-9ba1-42fe-980d-da0ce822575e)
+"/></div>
 
 <h3 align="center">A passionate Full-Stack developer and a ui ux Enthusiast.</h3>
 
@@ -9,6 +10,7 @@
 - 📬 How to reach me [Mail](sravani41968@gmail.com)
 
 - ## 🌐 Socials:
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srx_vani)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srx_vani) 
 
 # 💻 Tech Stack:
