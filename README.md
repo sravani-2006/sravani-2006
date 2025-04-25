@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm sravani </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center"><img src="https://github.com/Nithesh8678/nillion-1/blob/main/github.png"/></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sravani-2006&label=Profile%20views&color=0e75b6&style=flat" alt="sravani-2006" /> </p>
+<h3 align="center">A passionate Full-Stack developer and a ui ux Enthusiast.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravani-2006" alt="sravani-2006" /></a> </p>
+# 🧛🏼‍♂ About Me:
 
-- 📫 How to reach me **sravani41968@gmail.com**
+- 👨🏽‍💻 I’m currently learning **Full-Stack Developme**
+- 🗿 Ask me about **Full-Stack Developme**
+- 📬 How to reach me [Mail](sravani41968@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sravani-m-2414a6339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sravani-m-2414a6339" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sravani2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sravani2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sravani41968/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sravani41968/" height="30" width="40" /></a>
-</p>
+- ## 🌐 Socials:
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srx_vani) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sravani-2006&show_icons=true&locale=en&layout=compact" alt="sravani-2006" /></p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sravani-2006&show_icons=true&locale=en" alt="sravani-2006" /></p>
+# 📊 GitHub Stats:
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sravani-2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh8678&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sravani-2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
