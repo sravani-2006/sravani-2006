@@ -1,11 +1,11 @@
-<div align="center"><img src=""/></div>
+<div align="center"><img src="https://github.com/sravani-2006/sravani-2006/blob/main/cover%20image.jpg"/></div>
 
 <h3 align="center">A passionate Full-Stack developer and a ui ux Enthusiast.</h3>
 
 # 🧛🏼‍♂ About Me:
 
-- 👨🏽‍💻 I’m currently learning **Full-Stack Developme**
-- 🗿 Ask me about **Full-Stack Developme**
+- 👨🏽‍💻 I’m currently learning **Full-Stack Development**
+- 🗿 Ask me about **Full-Stack Development**
 - 📬 How to reach me [Mail](sravani41968@gmail.com)
 
 - ## 🌐 Socials:
