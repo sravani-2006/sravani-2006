@@ -1,6 +1,4 @@
-<div align="center"><img src="![cover image](https://github.com/user-attachments/assets/30e56cf6-a649-4413-ad56-34f8f892d68c)
-
-"/></div>
+<div align="center"><img src=""/></div>
 
 <h3 align="center">A passionate Full-Stack developer and a ui ux Enthusiast.</h3>
 
@@ -12,7 +10,7 @@
 
 - ## 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srx_vani)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srx_vani) 
+- 
 
 # 💻 Tech Stack:
 
