@@ -1,4 +1,5 @@
-<div align="center"><img src="![WhatsApp Image 2025-04-25 at 21 03 38_aa2bd4fd](https://github.com/user-attachments/assets/8bcc91d5-9ba1-42fe-980d-da0ce822575e)
+<div align="center"><img src="![cover image](https://github.com/user-attachments/assets/30e56cf6-a649-4413-ad56-34f8f892d68c)
+
 "/></div>
 
 <h3 align="center">A passionate Full-Stack developer and a ui ux Enthusiast.</h3>
