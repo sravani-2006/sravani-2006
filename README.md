@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/sravani-2006/sravani-2006/blob/main/cover1 image.jpg"/></div>
+<div align="center"><img src=""/></div>
 
 <h3 align="center">A passionate Full-Stack developer and a ui ux Enthusiast.</h3>
 
