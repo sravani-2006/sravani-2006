@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=sravani-2006&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="sravani-2006" style="padding-right:20px;">
 </p>
 <hr>
-<br>
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
