@@ -5,21 +5,39 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 <!--Header Name-->
-<h1 id="-ɪᴍ-ᴋɪʀᴀɴ"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ ᴋɪʀᴀɴ!</h1>
-<p><em>Digital Craftsman (Developer / Programmer)</em>
+
+<h1 id="-ɪᴍ-sravani"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ʜᴇʏ, ɪ’ᴍ sʀᴀᴠᴀɴɪ! 👋</h1>
+
+<p><em>Frontend Developer | UI/UX Designer | Data Analytics Learner</em>
 <br></p>
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+
+<!--Start Intro-->
+
+<p align="left">
+I’m a CSE student who likes turning random ideas into things people can actually use. I enjoy building websites, playing around with UI/UX, and figuring out how design and code can work together to create a better experience.
+</p>
+
+<p align="left">
+💻 <strong>Frontend:</strong> Building responsive and interactive web experiences.<br>
+🎨 <strong>UI/UX:</strong> Designing interfaces that look good and, more importantly, make sense.<br>
+📊 <strong>Data:</strong> Currently learning Data Analytics, SQL and Data Visualization.<br>
+🚀 <strong>Projects:</strong> I love experimenting, building, breaking things, and figuring out how to make them better.
+</p>
+
 <ul>
-<li>✨ Student of life :)</li>
-<li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
-<li>🏙 A lifetime insider and Mentor at <a href="https://exercism.org/profiles/Kiran1689">Exercism</a>.</li>
-<li>💁‍♂️ Volunteer MOD at <strong>Dev Community</strong>.</li>
-<li>✍ I write technical blogs, You can visit my blog site at <a href="https://dev.to/dev_kiran">DEV</a>.</li>
-<li>❤ Contributing to Open Source.</li>
-<li>💻 Visit my <a href="https://kiran1689.github.io">Portfolio</a> for more details about me.</li>
+<li>🌱 Currently learning something new every day.</li>
+<li>🎯 Trying to turn my ideas into real projects instead of leaving them in my notes.</li>
+<li>✨ I care about the little details that make a product feel good to use.</li>
+<li>🧠 Always curious about how things work and how they can be improved.</li>
+<li>☕ Powered by curiosity, random ideas and probably too much coffee.</li>
 </ul>
+
+<p>
+<strong>Still learning. Still building. Still figuring it out. 🚀</strong>
+</p>
+
 <!--End Intro-->
+
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="Kiran1689" style="padding-right:20px;">
