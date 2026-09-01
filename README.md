@@ -28,52 +28,10 @@
 <img width="500px" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,postgres,mongo,git,vscode,docker,aws,postman,supabase&amp;perline=10">
 </p>
 <br>
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/sravani-2006/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sravani-2006&amp;row=2&amp;column=6&amp;margin-w=20&amp;margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br>
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<table width="100%">
-  <tbody><tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sravani-2006">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sravani-2006&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sravani-2006">
-          <img align="center" src="https://streak-stats.demolab.com?user=sravani-2006&amp;theme=nightowl" alt="Streak Stats">
-        </a>
-      </p>
-    </td>
-  </tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sravani-2006">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sravani-2006&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
-        </a>
-      </p>
-    </td>
-  </tr>
-</tbody></table>
-<br>
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sravani-2006&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
-</div>
-<hr>
+
+
+
+
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!--STARTS_HERE_QUOTE_CARD-->
