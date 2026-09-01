@@ -19,10 +19,9 @@
 ![Figma](https://img.shields.io/badge/figma-306998.svg?style=for-the-badge&logo=figma&logoColor=FFD43B)
 ![c](https://img.shields.io/badge/c-306998.svg?style=for-the-badge&logo=c&logoColor=FFD43B)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sravani-2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sravani-2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><strong>📊 My Github Stats :</strong><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=radical" alt="GitHub stats"><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&amp;theme=radical&amp;hide_border=true"><br><br></p>
 
 ## 🏆 GitHub Trophies
 
