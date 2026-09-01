@@ -1,5 +1,5 @@
 <!--Banner-->
-<p><img src="https://github.com/Kiran1689/kiran1689/blob/main/banner.png" alt="Kiran1689 Banner Image"></p>
+<p><img  width ="100%" src="https://github.com/sravani-2006/sravani-2006/blob/main/cover%20image.jpeg"></p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
