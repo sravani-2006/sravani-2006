@@ -30,6 +30,12 @@
 <br>
 
 
+<h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
+
+<p align="center"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sravani-2006&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub stats"><br>
+<img align="center" src="https://streak-stats.demolab.com/?user=sravani-2006&theme=radical&hide_border=true"><br><br></p>
+
 
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
