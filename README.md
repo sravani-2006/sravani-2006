@@ -9,7 +9,7 @@
 
 <!--Start Intro-->               
 <p align="left">Design → Code → Analyze → Repeat </p>
-<p>I’m into Frontend, obsessed with good UI/UX, and currently exploring Data Analytics.</p>
+<p>I’m into Frontend, obsessed with good UI/UX.</p>
 <ul>
 <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
 <li>💁‍♂️ I like turning “what if?” into “let’s build it.</li>
