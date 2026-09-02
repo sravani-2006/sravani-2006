@@ -5,7 +5,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 <!--Header Name-->
-<h1 id="-ɪᴍ-ᴋɪʀᴀɴ"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ sʀᴀᴠᴀɴɪ:)</h1>
+<h1 id="-ɪᴍ-sʀᴀᴠᴀɴɪ"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ sʀᴀᴠᴀɴɪ:)</h1>
 
 <!--Start Intro-->               
 <p align="left">Design → Code → Analyze → Repeat </p>
