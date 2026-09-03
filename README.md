@@ -14,7 +14,7 @@
 <li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
 <li>💁‍♂️ I like turning “what if?” into “let’s build it.</li>
 <li>❤ Contributing to Open Source.</li>
-<li>💻 Visit my <a href="">Portfolio</a> for more details about me.</li>
+<li>💻 Visit my <a href="404">Portfolio</a> for more details about me.</li>
 </ul>
 <!--End Intro-->
 <!--Profile Count Badge-->
